@@ -109,13 +109,13 @@ This project is open-source and available under the MIT License.
 
 ### 9. Acknowledgements
 The dataset is provided by Microsoft and Petfinder.com, and it is available through Kaggle.
-Contact
+
+### 10. Contact
 For any questions or suggestions, feel free to reach out to:
 
 Email: mhuziafa287e.com
+
 GitHub: https://github.com/MHUZAIFAM
-arduino
-Copy code
 
 This `README.md` includes the project’s goals, setup instructions, model architecture, and other relevant information. You can update it as needed to suit your exact project setup.
 
