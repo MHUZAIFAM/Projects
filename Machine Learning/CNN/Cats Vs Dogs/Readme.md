@@ -79,7 +79,7 @@ To make predictions on new images, run:
 python predict.py --image_path path_to_image
 ```
 
-### 6. Model Architecture
+###  Model Architecture
 The CNN model consists of the following layers:
 - Convolutional layers with ReLU activation
 - Max-pooling layers
@@ -101,16 +101,16 @@ model = Sequential([
 ])
 ```
 
-### 7. Results
+###  Results
 After training, the model should output a classification of "Dog" or "Cat" for any given image. Evaluate the model using metrics like accuracy, confusion matrix, and F1 score.
 
-### 8. License
+###  License
 This project is open-source and available under the MIT License.
 
-### 9. Acknowledgements
+###  Acknowledgements
 The dataset is provided by Microsoft and Petfinder.com, and it is available through Kaggle.
 
-### 10. Contact
+###  Contact
 For any questions or suggestions, feel free to reach out to:
 
 Email: mhuziafa287e.com
