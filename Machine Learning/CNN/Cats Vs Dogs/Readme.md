@@ -113,7 +113,7 @@ The dataset is provided by Microsoft and Petfinder.com, and it is available thro
 ###  Contact
 For any questions or suggestions, feel free to reach out to:
 
-Email: mhuziafa287e.com
+Email: mhuziafa287e@gmail.com
 
 GitHub: https://github.com/MHUZAIFAM
 
