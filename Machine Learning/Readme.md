@@ -75,7 +75,6 @@ This repository contains a collection of machine learning project ideas along wi
 - **Dataset**: [DIV2K Dataset](https://www.kaggle.com/datasets/dizcza/div2k)
 
 ## Usage
-
 1. Clone this repository.
 2. Choose a project and access its respective dataset.
 3. Follow the instructions in the project folder to start working on the machine learning task.
