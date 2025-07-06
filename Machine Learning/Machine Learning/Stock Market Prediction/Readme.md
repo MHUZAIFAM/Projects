@@ -15,3 +15,4 @@ Company: NASDAQ
 | XGBoost           | 0.6261     | 28.6238    |
 | KNN Regressor     | 0.4419     | 34.9732    |
 
+![download](https://github.com/user-attachments/assets/7f3dbd45-ac97-46e8-9cc8-d8b37cad8d1f)
