@@ -69,4 +69,8 @@ prediction = model.predict(patient_scaled)
 print("Diabetes Prediction:", "Positive" if prediction[0] == 1 else "Negative")
 ```
 
+## 👨‍💻 Author
+### M Huzaifa
+Machine Learning | Computer Vision | AI Health Projects
+
 
