@@ -57,7 +57,15 @@ pip install PyQt5
 ### 3. Run the App
 ```
 python gui.py
-
 ```
 
 ### 4. Example Conversion
+
+| From    | To      | Input               | Output              |
+| ------- | ------- | ------------------- | ------------------- |
+| text    | binary  | `Hi`                | `01001000 01101001` |
+| binary  | text    | `01001000 01101001` | `Hi`                |
+| text    | decimal | `Hi`                | `72 105`            |
+| hex     | text    | `4869`              | `Hi`                |
+| decimal | hex     | `72 105`            | `48 69`             |
+
