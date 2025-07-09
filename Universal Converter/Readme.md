@@ -69,3 +69,6 @@ python gui.py
 | hex     | text    | `4869`              | `Hi`                |
 | decimal | hex     | `72 105`            | `48 69`             |
 
+### 5. Requirements
+- Python 3.7+
+- PyQt5
