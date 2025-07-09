@@ -28,13 +28,36 @@ A modern Python-based desktop application to convert data between multiple forma
 
 ## 📂 Project Structure
 ```
-
 converter/
-├── gui.py # PyQt5 GUI
-├── main.py # Logic controller
-├── text_conversions.py # Text <-> Binary/Decimal/Hex functions
-├── binary_conversions.py # Binary <-> Text/Decimal/Hex functions
-├── decimal_conversions.py # Decimal <-> Text/Binary/Hex functions
-├── hex_conversions.py # Hex <-> Text/Binary/Decimal functions
+├── gui.py                    # PyQt5 GUI
+├── main.py                   # Logic controller
+├── text_conversions.py       # Text <-> Binary/Decimal/Hex functions
+├── binary_conversions.py     # Binary <-> Text/Decimal/Hex functions
+├── decimal_conversions.py    # Decimal <-> Text/Binary/Hex functions
+├── hex_conversions.py        # Hex <-> Text/Binary/Decimal functions
 ```
 
+
+---
+
+## 🛠️ Installation
+
+### 1. Clone the Repository
+
+```
+git clone https://github.com/your-username/universal-converter.git
+cd universal-converter
+```
+
+### 2. Install Dependencies
+```
+pip install PyQt5
+```
+
+### 3. Run the App
+```
+python gui.py
+
+```
+
+### 4. Example Conversion
