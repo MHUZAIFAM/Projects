@@ -51,7 +51,9 @@ This project uses **Convolutional Neural Networks (CNN)** with **MobileNetV2** a
 
 ## 📊 Confusion Matrix
 
-![Confusion Matrix Heatmap](confusion_matrix.png)  
+<img width="1398" height="1190" alt="download" src="https://github.com/user-attachments/assets/87cdc01a-5572-4460-a609-8e0d1f41aa0d" />
+
+
 *Confusion Matrix visualizing model predictions across 15 classes*
 
 ---
