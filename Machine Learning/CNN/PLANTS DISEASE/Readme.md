@@ -107,4 +107,6 @@ pred = model.predict(img_array)
 - Model: MobileNetV2 via TensorFlow Keras Applications
 
 ### 8. Ownsership 
-[Muhammad Huzaifa](mhuzaifam.github.io)
+[Muhammad Huzaifa](https://mhuzaifam.github.io/)
+
+
