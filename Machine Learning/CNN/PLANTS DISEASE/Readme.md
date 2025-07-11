@@ -1,4 +1,3 @@
-
 # 🌿 Plant Disease Detection using Deep Learning
 
 This project uses **Convolutional Neural Networks (CNN)** with **MobileNetV2** and **Grad-CAM** to detect and explain diseases in plant leaves from the [PlantVillage Dataset](https://www.kaggle.com/datasets/emmarex/plantdisease).
