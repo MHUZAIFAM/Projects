@@ -106,4 +106,5 @@ pred = model.predict(img_array)
 - Dataset: PlantVillage on Kaggle
 - Model: MobileNetV2 via TensorFlow Keras Applications
 
-
+### 8. Ownsership 
+[Muhammad Huzaifa](mhuzaifam.github.io)
